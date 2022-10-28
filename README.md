@@ -1,2 +1,3 @@
 # Tela04
-fins didáticos.
+
+Atividade acadêmica.
